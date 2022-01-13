@@ -1,0 +1,47 @@
+Elder Guardian
+Wither Skeleton
+Stray
+Husk
+Zombie Villager
+Skeleton Horse
+Zombie Horse
+Evocation Illager
+Vindication Illager
+Vex
+Creeper
+Skeleton
+Spider
+Giant
+Zombie
+Slime
+Ghast
+PigZombie
+Enderman
+Cave Spider
+Silverfish
+Blaze
+Lava Slime
+Ender Dragon
+Wither Boss
+Bat
+Witch
+Endermite
+Guardian
+Shulker
+Donkey
+Mule
+Pig
+Sheep
+Cow
+Chicken
+Squid
+Wolf
+Mushroom Cow
+SnowMan
+Ozelot
+Villager Golem
+Horse
+Rabbit
+PolarBear
+Llama
+Villager

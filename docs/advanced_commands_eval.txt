@@ -1,0 +1,151 @@
+find iron
+    PARSELIST AFTER SIMILARITY -> [{'find': [iron]}]
+    speech recognized 10/10
+    parse correctly 10/10
+    execute 1 action successfuly 10/10
+    
+find log
+    PARSELIST AFTER SIMILARITY -> [{'find': [log]}]
+    speech recognized 10/10
+    parse correctly 10/10
+    execute 1 action successfuly 10/10
+    
+find lapis
+    PARSELIST AFTER SIMILARITY -> [{'find': [lapis]}]
+    speech recognized 10/10
+    parse correctly 10/10
+    execute 1 action successfuly 10/10
+    
+find coal
+    PARSELIST AFTER SIMILARITY -> [{'find': [coal]}]
+    speech recognized 10/10
+    parse correctly 10/10
+    execute 1 action successfuly 10/10
+    
+find a sheep
+    PARSELIST AFTER SIMILARITY -> [{'find': [sheep]}]
+    speech recognized 10/10
+    parse correctly 10/10
+    execute 1 action successfuly 10/10
+    
+find a horse
+    PARSELIST AFTER SIMILARITY -> [{'find': [horse]}]
+    speech recognized 9/10
+    parse correctly 9/10
+    execute 1 action successfuly 9/10
+    
+find the farthest sheep
+    PARSELIST AFTER SIMILARITY -> [{'find': [furthest, sheep]}]
+    speech recognized 9/10
+    parse correctly 9/10
+    execute 1 action successfuly 9/10
+    
+find a cow and kill it
+    PARSELIST AFTER SIMILARITY -> [{'find': [cow]}, {'kill': [cow]}]
+    speech recognized 10/10
+    parse correctly 10/10
+    execute 2 action successfuly 10/10
+    
+find a cow, kill it and cook it
+    PARSELIST AFTER SIMILARITY -> [{'find': []}, {'kill': [cow, cow]}, {'cook': [cow]}]
+    speech recognized 8/10
+    parse correctly 8/10
+    execute 3 actions successfuly 8/10
+    
+find a cow, sheep and cook them
+    PARSELIST AFTER SIMILARITY -> [{'find': [cow, sheep]}, {'cook': [sheep]}]
+    speech recognized 10/10
+    parse correctly 0/10
+    execute 1 action successfuly 0/10
+    
+find a cow, and sheep and kill them with a diamond sword
+    PARSELIST AFTER SIMILARITY -> [{'find': [sheep]}, {'find': [cow]}, {'kill': [diamond, sword, sheep]}, {'kill': [cow]}]
+    speech recognized 10/10
+    parse correctly 10/10
+    execute 4 actions successfuly 10/10
+    
+cook mutton
+    PARSELIST AFTER SIMILARITY -> [{'cook': [mutton]}]
+    speech recognized 7/10
+    parse correctly 7/10
+    execute 1 action successfuly 7/10
+    
+cook beef
+    PARSELIST AFTER SIMILARITY -> [{'cook': [beef]}]
+    speech recognized 6/10
+    parse correctly 6/10
+    execute 1 action successfuly 6/10
+    
+cook porkchop, beef and mutton
+    PARSELIST AFTER SIMILARITY -> [{'cook': []}, {'cook': [mutton]}, {'cook': [pork, beef]}]
+    speech recognized 5/10
+    parse correctly 7/10
+    execute 3 actions successfuly 6/10
+    
+craft porkchop, chicken and a steak
+    PARSELIST AFTER SIMILARITY -> [{'cook': [pork]}, {'cook': [chicken, steak]}]
+    speech recognized 7/10
+    parse correctly 7/10
+    execute 3 actions successfuly 7/10
+    
+break a tree 
+    PARSELIST AFTER SIMILARITY -> [{'break': [tree]}]
+    speech recognized 10/10
+    parse correctly 10/10
+    execute 1 action successfuly 10/10
+    
+break the nearest coal
+    PARSELIST AFTER SIMILARITY -> [{'break': [nearest, coal]}]
+    speech recognized 8/10
+    parse correctly 8/10
+    execute 1 action successfuly 8/10 
+
+break the farthest coal
+    PARSELIST AFTER SIMILARITY -> [{'break': [furthest, coal]}]
+    speech recognized 6/10
+    parse correctly 6/10
+    execute 1 action successfuly 6/10 
+  
+destroy two coal blocks, and find the nearest chicken
+    PARSELIST AFTER SIMILARITY -> [{'kill': [2, coal]},  {'find': [nearest, chicken]}]
+    speech recognized 8/10
+    parse correctly 8/10
+    execute 3 actions successfuly 8/10 
+    
+murder the farthest stallion with a blade
+    PARSELIST AFTER SIMILARITY -> [{'kill': [farthest, horse, blade]}]
+    speech recognized 9/10
+    parse correctly 9/10
+    execute 1 action successfuly 9/10
+    
+switch to diamond sword and kill the nearest chicken with the sword
+    PARSELIST AFTER SIMILARITY -> [{'switch': [diamond, sword]}, {'kill': [nearest, chicken, sword]}]  
+    speech recognized 9/10
+    parse correctly 9/10
+    execute 1 action successfuly 9/10
+
+find a horse, then walk towards 5 steps, then craft a chicken
+    PARSELIST AFTER SIMILARITY -> [{'find': [horse]}, {'walk': [5, steps]}, {'find': [chicken]}]
+    speech recognized 10/10
+    parse correctly 10/10
+    execute 3 actions successfuly 10/10
+
+switch to diamond_shovel, find a horse on the left and then run backwards 20 steps
+    PARSELIST -> [{'switch': [diamond, shovel]}, {'find': [left, horse]}, {'run': [backwards, 20, steps]}]
+    speech recognized 10/10
+    parse correctly 10/10
+    execute 3 actions successfuly 10/10
+
+crouch down 3 times, run forward 10 steps and break five trees on the left, and equip a diamond axe
+    PARSELIST AFTER SIMILARITY -> [{'jump': [down, 3]}, {'run': [forward, 10, steps], [{'kill': [5, trees]}], {'equip': [diamond, axe]}]
+    speech recognized 7/10
+    parse correctly 7/10
+    execute 8 actions successfuly 7/10
+    
+go to the closest cow on the right then break two trees then kill a sheep with shovel, then equip a diamond sword then run 10 steps to the left then cook a chicken and then jump 10 times
+    PARSELIST AFTER SIMILARITY -> [{'go': [closest, cow, right]}, {'kill': [2, trees]}, {'kill': [sheep, shovel]}, {'equip': [diamond, sword]}, {'run': [10, steps, left]},{'cook': [chicken]}, {'jump': [10, times]}]
+    speech recognized 7/10
+    parse correctly 7/10
+    execute 8 actions successfuly 7/10
+
+

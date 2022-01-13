@@ -1,0 +1,236 @@
+air
+stone
+grass
+dirt
+cobblestone
+planks
+sapling
+bedrock
+flowing water
+water
+flowing lava
+lava
+sand
+gravel
+gold ore
+iron ore
+coal ore
+log
+leaves
+sponge
+glass
+lapis ore
+lapis block
+dispenser
+sandstone
+noteblock
+bed
+golden rail
+detector rail
+sticky piston
+web
+tallgrass
+deadbush
+piston
+piston head
+wool
+piston extension
+yellow flower
+red flower
+brown mushroom
+red mushroom
+gold block
+iron block
+double stone slab
+stone slab
+brick block
+tnt
+bookshelf
+mossy cobblestone
+obsidian
+torch
+fire
+mob spawner
+oak stairs
+chest
+redstone wire
+diamond ore
+diamond block
+crafting table
+wheat
+farmland
+furnace
+lit furnace
+standing sign
+wooden door
+ladder
+rail
+stone stairs
+wall sign
+lever
+stone pressure plate
+iron door
+wooden pressure plate
+redstone ore
+lit redstone ore
+unlit redstone torch
+redstone torch
+stone button
+snow layer
+ice
+snow
+cactus
+clay
+reeds
+jukebox
+fence
+pumpkin
+netherrack
+soul sand
+glowstone
+portal
+lit pumpkin
+cake
+unpowered repeater
+powered repeater
+stained glass
+trapdoor
+monster egg
+stonebrick
+brown mushroom block
+red mushroom block
+iron bars
+glass pane
+melon block
+pumpkin stem
+melon stem
+vine
+fence gate
+brick stairs
+stone brick stairs
+mycelium
+waterlily
+nether brick
+nether brick fence
+nether brick stairs
+nether wart
+enchanting table
+brewing stand
+cauldron
+end portal
+end portal frame
+end stone
+dragon egg
+redstone lamp
+lit redstone lamp
+double wooden slab
+wooden slab
+cocoa
+sandstone stairs
+emerald ore
+ender chest
+tripwire hook
+tripwire
+emerald block
+spruce stairs
+birch stairs
+jungle stairs
+command block
+beacon
+cobblestone wall
+flower pot
+carrots
+potatoes
+wooden button
+skull
+anvil
+trapped chest
+light weighted pressure plate
+heavy weighted pressure plate
+unpowered comparator
+powered comparator
+daylight detector
+redstone block
+quartz ore
+hopper
+quartz block
+quartz stairs
+activator rail
+dropper
+stained hardened clay
+stained glass pane
+leaves2
+log2
+acacia stairs
+dark oak stairs
+slime
+barrier
+iron trapdoor
+prismarine
+sea lantern
+hay block
+carpet
+hardened clay
+coal block
+packed ice
+double plant
+standing banner
+wall banner
+daylight detector inverted
+red sandstone
+red sandstone stairs
+double stone slab2
+stone slab2
+spruce fence gate
+birch fence gate
+jungle fence gate
+dark oak fence gate
+acacia fence gate
+spruce fence
+birch fence
+jungle fence
+dark oak fence
+acacia fence
+spruce door
+birch door
+jungle door
+acacia door
+dark oak door
+end rod
+chorus plant
+chorus flower
+purpur block
+purpur pillar
+purpur stairs
+purpur double slab
+purpur slab
+end bricks
+beetroots
+grass path
+end gateway
+repeating command block
+chain command block
+frosted ice
+magma
+nether wart block
+red nether brick
+bone block
+structure void
+observer
+white shulker box
+orange shulker box
+magenta shulker box
+light blue shulker box
+yellow shulker box
+lime shulker box
+pink shulker box
+gray shulker box
+silver shulker box
+cyan shulker box
+purple shulker box
+blue shulker box
+brown shulker box
+green shulker box
+red shulker box
+black shulker box
+structure block

@@ -1,0 +1,208 @@
+iron shovel
+iron pickaxe
+iron axe
+flint and steel
+apple
+bow
+arrow
+coal
+diamond
+iron ingot
+gold ingot
+iron sword
+wooden sword
+wooden shovel
+wooden pickaxe
+wooden axe
+stone sword
+stone shovel
+stone pickaxe
+stone axe
+diamond sword
+diamond shovel
+diamond pickaxe
+diamond axe
+stick
+bowl
+mushroom stew
+golden sword
+golden shovel
+golden pickaxe
+golden axe
+string
+feather
+gunpowder
+wooden hoe
+stone hoe
+iron hoe
+diamond hoe
+golden hoe
+wheat seeds
+wheat
+bread
+leather helmet
+leather chestplate
+leather leggings
+leather boots
+chainmail helmet
+chainmail chestplate
+chainmail leggings
+chainmail boots
+iron helmet
+iron chestplate
+iron leggings
+iron boots
+diamond helmet
+diamond chestplate
+diamond leggings
+diamond boots
+golden helmet
+golden chestplate
+golden leggings
+golden boots
+flint
+porkchop
+cooked porkchop
+painting
+golden apple
+sign
+wooden door
+bucket
+bucket
+water bucket
+lava bucket
+minecart
+saddle
+iron door
+redstone
+snowball
+boat
+leather
+milk bucket
+brick
+clay ball
+reeds
+paper
+book
+slime ball
+chest minecart
+furnace minecart
+egg
+compass
+fishing rod
+clock
+glowstone dust
+fish
+cooked fish
+dye
+bone
+sugar
+cake
+bed
+repeater
+cookie
+filled map
+shears
+melon
+pumpkin seeds
+melon seeds
+beef
+cooked beef
+chicken
+cooked chicken
+rotten flesh
+ender pearl
+blaze rod
+ghast tear
+gold nugget
+nether wart
+potion
+glass bottle
+spider eye
+fermented spider eye
+blaze powder
+magma cream
+brewing stand
+cauldron
+ender eye
+speckled melon
+spawn egg
+experience bottle
+fire charge
+writable book
+written book
+emerald
+item frame
+flower pot
+carrot
+potato
+baked potato
+poisonous potato
+map
+golden carrot
+skull
+carrot on a stick
+nether star
+pumpkin pie
+fireworks
+firework charge
+enchanted book
+comparator
+netherbrick
+quartz
+tnt minecart
+hopper minecart
+prismarine shard
+prismarine crystals
+rabbit
+cooked rabbit
+rabbit stew
+rabbit foot
+rabbit hide
+armor stand
+iron horse armor
+golden horse armor
+diamond horse armor
+lead
+name tag
+command block minecart
+mutton
+cooked mutton
+banner
+spruce door
+birch door
+jungle door
+acacia door
+dark oak door
+chorus fruit
+chorus fruit popped
+beetroot
+beetroot seeds
+beetroot soup
+dragon breath
+splash potion
+spectral arrow
+tipped arrow
+lingering potion
+shield
+elytra
+spruce boat
+birch boat
+jungle boat
+acacia boat
+dark oak boat
+totem of undying
+shulker shell
+iron nugget
+record 13
+record cat
+record blocks
+record chirp
+record far
+record mall
+record mellohi
+record stal
+record strad
+record ward
+record 11
+record wait

@@ -1,0 +1,128 @@
+turn left
+    speech recognized 10/10
+    parse correctly 10/10
+    execute successfuly 10/10  
+    
+turn right
+    speech recognized 10/10
+    parse correctly 10/10
+    execute successfuly 10/10
+    
+walk to the right
+    speech recognized 10/10
+    parse correctly 10/10
+    execute successfuly 10/10
+    
+walk to the left
+    speech recognized 10/10
+    parse correctly 10/10
+    execute successfuly 10/10
+    
+walk forward
+    speech recognized 7/10
+    parse correctly 7/10
+    execute successfuly 7/10
+    
+walk backwards
+    speech recognized 10/10
+    parse correctly 10/10
+    execute successfuly 10/10
+    
+walk to the right for 1 step
+    speech recognized 10/10
+    parse correctly 10/10
+    execute successfuly 10/10
+    
+walk to the left for 10 steps
+    speech recognized 10/10
+    parse correctly 10/10
+    execute successfuly 10/10
+    
+walk forward for 1 step
+    speech recognized 10/10
+    parse correctly 10/10
+    execute successfuly 10/10
+    
+walk backwards for 10 steps
+    speech recognized 10/10
+    parse correctly 10/10
+    execute successfuly 10/10
+    
+run to the right
+    speech recognized 10/10
+    parse correctly 10/10
+    execute successfuly 10/10
+    
+run to the left
+    speech recognized 10/10
+    parse correctly 10/10
+    execute successfuly 10/10
+    
+run forward
+    speech recognized 8/10
+    parse correctly 8/10
+    execute successfuly 8/10
+    
+run backwards
+    speech recognized 10/10
+    parse correctly 10/10
+    execute successfuly 10/10
+    
+run to the right for 1 step
+    speech recognized 10/10
+    parse correctly 10/10
+    execute successfuly 10/10
+    
+run to the left for 10 steps
+    speech recognized 10/10
+    parse correctly 10/10
+    execute successfuly 10/10
+    
+run forward for 1 step
+    speech recognized 10/10
+    parse correctly 10/10
+    execute successfuly 10/10
+    
+run backwards for 10 steps
+    speech recognized 10/10
+    parse correctly 10/10
+    execute successfuly 10/10
+    
+Crouch/Crouch down
+    speech recognized 7/10
+    parse correctly 7/10
+    execute successfuly 7/10
+    
+Jump
+    speech recognized 10/10
+    parse correctly 10/10
+    execute successfuly 10/10
+    
+jump 10 times
+    speech recognized 10/10
+    parse correctly 10/10
+    execute successfuly 10/10
+    
+walk left and jump 10 times
+    speech recognized 8/10
+    parse correctly 8/10
+    execute successfuly 8/10
+    
+walk right and then crouch down
+    speech recognized 10/10
+    parse correctly 10/10
+    execute successfuly 10/10
+    
+walk to the left 5 steps, turn left and run back 10 steps
+    speech recognized 7/10
+    parse correctly 7/10
+    execute successfuly 7/10
+
+walk to the right 5 steps, turn left and run to the right 10 steps
+    speech recognized 6/10
+    parse correctly 6/10
+    execute successfuly 6/10
+
+
+
+# Note: a/b, for a is the number of success, and b is the total number of trials. Each command was tested 10 times.
